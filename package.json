@@ -1,0 +1,26 @@
+{
+    "name": "my_launch_app",
+    "version": "1.0.0",
+    "description": "practica 1",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LizethDamian/My_launch_App.git"
+    },
+    "author": "LizethDamian",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LizethDamian/My_launch_App/issues"
+    },
+    "homepage": "https://github.com/LizethDamian/My_launch_App#readme",
+    "dependencies": {
+        "@polkadot/api": "^8.3.2"
+    }
+}
